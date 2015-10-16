@@ -1,6 +1,17 @@
-## Strongbox
+<p align="center">
+  <a href="https://github.com/tuzz/strongbox">
+    <img src="https://github.com/tuzz/strongbox/raw/master/header.png" alt="Strongbox" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/tuzz/strongbox">
+    <img src="https://github.com/tuzz/strongbox/raw/master/strongbox.jpg" alt="Strongbox" />
+  </a>
+  <br/><br/>
+  This is where I store my precious pangrams.
+</p>
+<br/>
 
-This is where I store my precious pangrams.
+---
 
 ## Create a job
 
