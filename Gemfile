@@ -7,4 +7,5 @@ gem "rack"
 group :development, :test do
   gem "rspec"
   gem "rack-test"
+  gem "pry"
 end

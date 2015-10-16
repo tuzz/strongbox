@@ -1,5 +1,7 @@
 require "rspec"
+require "pry"
 require "rack/test"
+require "json"
 require "strongbox"
 
 RSpec.configure do |config|
