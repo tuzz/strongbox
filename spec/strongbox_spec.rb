@@ -2,7 +2,9 @@ require "spec_helper"
 
 RSpec.describe Strongbox do
   include Rack::Test::Methods
-  let(:app) { subject }
+
+  let(:store) { described_class::MemoryStore.new }
+  let(:app) { described_class.new(store) }
 
   describe "POST /job/:id" do
     it "creates a pangram job to be computed" do
